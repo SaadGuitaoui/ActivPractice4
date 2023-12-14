@@ -52,13 +52,14 @@ CommandLineRunner start(CustomerRepository customerRepository){
 
 
 <h3> 3. GATEWAY-SERVICE </h3>
+<p>
         <h5>Bean de configuration</h5>
         <img src="captures/gateway-bean.jpg" width="700">
         <h5>Configuration de la Gateway</h5>
         <img src="captures/gateway-properties.jpg" width="700">
         <h5>Test de la gateway</h5>
         <img src="captures/order-service-full-order.jpg" width="700">
-        
+        </p>
 
         <h3> 4. INVENTORY-SERVICE </h3>
 
