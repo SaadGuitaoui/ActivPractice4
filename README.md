@@ -9,7 +9,7 @@
 
 
 
-<summary style="font-size:15px;cursor:pointer"> 2. CUSTOMER-SERVICE </summary>
+<h3> 2. CUSTOMER-SERVICE </h3>
         <h5>Entity Customer</h5>
 
 
@@ -51,7 +51,7 @@ CommandLineRunner start(CustomerRepository customerRepository){
 <img src="captures/customer-service-test.jpg" width="700">
 
 
-<summary style="font-size:15px;cursor:pointer"> 3. GATEWAY-SERVICE </summary>
+<h3> 3. GATEWAY-SERVICE </h3>
         <h5>Bean de configuration</h5>
         <img src="captures/gateway-bean.jpg" width="700">
         <h5>Configuration de la Gateway</h5>
@@ -60,7 +60,7 @@ CommandLineRunner start(CustomerRepository customerRepository){
         <img src="captures/order-service-full-order.jpg" width="700">
         
 
-        <summary style="font-size:15px;cursor:pointer"> 4. INVENTORY-SERVICE </summary>
+        <h3> 4. INVENTORY-SERVICE </h3>
 
 <h5>Entity Product</h5>
 
@@ -117,7 +117,7 @@ CommandLineRunner start(ProductRepository productRepository)
         
 
 
-        <summary style="font-size:15px;cursor:pointer"> 5. ORDER-SERVICE</summary>
+        <h3> 5. ORDER-SERVICE</h3>
         <h5>Entity Order</h5>
 
 ```javascript
