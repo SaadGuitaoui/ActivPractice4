@@ -3,7 +3,7 @@
 <h3>Architecture:</h3>
 <img src="captures/capture1.png"></img>
 <details>
-<summary style="font-size:15px;cursor:pointer">📌 1. CONFIG SERVICE: (Click to expand 🖱)</summary>
+<summary style="font-size:15px;cursor:pointer"> 1. CONFIG SERVICE: (Click to expand 🖱)</summary>
         <h5>Consul registered services:</h5>
     <img src="captures/all-registered.jpg"></img>
 
@@ -11,7 +11,7 @@
 </details>
 
 <details>
-<summary style="font-size:15px;cursor:pointer">📌 2. CUSTOMER-SERVICE (Click to expand 🖱)</summary>
+<summary style="font-size:15px;cursor:pointer"> 2. CUSTOMER-SERVICE (Click to expand 🖱)</summary>
         <h5>Entity Customer</h5>
 
 
@@ -53,7 +53,7 @@ CommandLineRunner start(CustomerRepository customerRepository){
 <img src="captures/customer-service-test.jpg" width="700">
 </details>
 <details>
-<summary style="font-size:15px;cursor:pointer">📌 3. GATEWAY-SERVICE (Click to expand 🖱)</summary>
+<summary style="font-size:15px;cursor:pointer"> 3. GATEWAY-SERVICE (Click to expand 🖱)</summary>
         <h5>Bean de configuration</h5>
         <img src="captures/gateway-bean.jpg" width="700">
         <h5>Configuration de la Gateway</h5>
@@ -63,7 +63,7 @@ CommandLineRunner start(CustomerRepository customerRepository){
         </details>
 
 <details>
-        <summary style="font-size:15px;cursor:pointer">📌 4. INVENTORY-SERVICE (Click to expand 🖱)</summary>
+        <summary style="font-size:15px;cursor:pointer"> 4. INVENTORY-SERVICE (Click to expand 🖱)</summary>
 <h5>Entity Product</h5>
 
 ```javascript
@@ -119,7 +119,7 @@ CommandLineRunner start(ProductRepository productRepository)
         </details>
 
 <details>
-        <summary style="font-size:15px;cursor:pointer">📌 5. ORDER-SERVICE (Click to expand 🖱)</summary>
+        <summary style="font-size:15px;cursor:pointer"> 5. ORDER-SERVICE (Click to expand 🖱)</summary>
         <h5>Entity Order</h5>
 
 ```javascript
@@ -243,7 +243,7 @@ public Order getOrder(@PathVariable Long id){
 <img src="captures/order-service-full-order.jpg" width="700">
         </details>
         <details>
-        <summary style="font-size:15px;cursor:pointer">📌 6. BILLING-SERVICE avec consul config et vault (Click to expand 🖱)</summary>
+        <summary style="font-size:15px;cursor:pointer"> 6. BILLING-SERVICE avec consul config et vault (Click to expand 🖱)</summary>
         <h5>Dependencies</h5>
 
 ```javascript
@@ -301,7 +301,7 @@ public class ConsulConfigRestController {
 <img src="captures/secrets.PNG" width="700">
         </details>
         <details>
-        <summary style="font-size:15px;cursor:pointer">📌 7. FRONTEND ANGULAR (Click to expand 🖱)</summary>
+        <summary style="font-size:15px;cursor:pointer"> 7. FRONTEND ANGULAR (Click to expand 🖱)</summary>
 <h5>Customers list</h5>
 <img src="captures/customers.jpg" width="700">
 <h5>Products list</h5>
