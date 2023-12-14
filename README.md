@@ -60,7 +60,7 @@ CommandLineRunner start(CustomerRepository customerRepository){
         <img src="captures/order-service-full-order.jpg" width="700">
         
 
-
+<summary>
         <summary style="font-size:15px;cursor:pointer"> 4. INVENTORY-SERVICE </summary>
 <h5>Entity Product</h5>
 
