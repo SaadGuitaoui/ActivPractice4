@@ -1,7 +1,7 @@
 <h1>Microservices E-Commerce</h1>
 <p>Welcome to our e-commerce application built on microservices architecture, incorporating advanced technologies like Consul Discovery, Spring Cloud Config, Spring Cloud Gateway, Angular, and other specialized services.</p>
 
-<summary style="font-size:15px;cursor:pointer"> 1. CONFIG SERVICE: </summary>
+<h3> 1. CONFIG SERVICE: </h3>
         <h5>Consul registered services:</h5>
     <img src="captures/all-registered.jpg"></img>
 
@@ -60,8 +60,8 @@ CommandLineRunner start(CustomerRepository customerRepository){
         <img src="captures/order-service-full-order.jpg" width="700">
         
 
-<summary>
         <summary style="font-size:15px;cursor:pointer"> 4. INVENTORY-SERVICE </summary>
+
 <h5>Entity Product</h5>
 
 ```javascript
