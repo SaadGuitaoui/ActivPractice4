@@ -1,6 +1,5 @@
 <h1>Microservices E-Commerce</h1>
 <p>Welcome to our e-commerce application built on microservices architecture, incorporating advanced technologies like Consul Discovery, Spring Cloud Config, Spring Cloud Gateway, Angular, and other specialized services.</p>
-<h3>Architecture:</h3>
 
 <summary style="font-size:15px;cursor:pointer"> 1. CONFIG SERVICE: </summary>
         <h5>Consul registered services:</h5>
