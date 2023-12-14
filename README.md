@@ -2,13 +2,13 @@
 <p>Welcome to our microservices-based e-commerce application, utilizing technologies such as Consul Discovery, Spring Cloud Config, Spring Cloud Gateway, Angular, and other specific services.</p>
 <h3>Architecture:</h3>
 <img src="captures/capture1.png"></img>
-<details>
+
 <summary style="font-size:15px;cursor:pointer"> 1. CONFIG SERVICE: (Click to expand 🖱)</summary>
         <h5>Consul registered services:</h5>
     <img src="captures/all-registered.jpg"></img>
 
 
-</details>
+
 
 <details>
 <summary style="font-size:15px;cursor:pointer"> 2. CUSTOMER-SERVICE (Click to expand 🖱)</summary>
